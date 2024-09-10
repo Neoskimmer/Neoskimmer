@@ -24,24 +24,6 @@ Also, I forgot to mention video games!
 I love anything Nintendo related, including the old consoles (I have a Wii, 3DSXL, Wii U, but no Switch.)
 My faviourite game to play is Mariokart, particularly Mariokart Wii.
 
-There's nothing really else to know about me. I am such a simple person.
-
-## Blog thingo
-It's kinda stupid to make an actual blog on github, so I'm just gonna list 10 things that happened in the past week.
-1. I got a 89% on my maths test, which is kinda sad because I was aiming for a 94%, but it's still pretty good.
-2. I found A BUNCH of stuff that I had been looking for for AGES, including my thumbdrive and my sanity.
-3. I made the website https://homepagestar.w3spaces.com/ The point of it is to look nicer than the firefox homepage, while still fitting in with the theme (Purple Night)
-4. I found the login to my old scratch account and finally found the email that could get my main account unbanned (It got banned for a joke that I made about my password lol)
-5. I finished "I was born for this" by Alice Oseman and it was really good :0
-6. The MLB team I go for (Detroit Tigers) tied a series against the Boston Red Sox
-7. My school updated their absolutely crap uniform policy to an ok uniform policy
-8. I lost my SD card :(((
-9. I submitted my history presentation on time (Yay!!!)
-10. Duck
-
-## Other stuff
-
-This part is for stuff that I wanna share with people, but doesn't fit in the other 2 headings. 
-There's nothing here at the moment, but there will be in the future.
+There's nothing really else to know about me.
 
 
