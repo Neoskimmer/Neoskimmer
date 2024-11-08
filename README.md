@@ -36,7 +36,7 @@ HTML (Kinda)
 
 Python (Kinda)
 
-# Hire me! 
+## Hire me! 
 
 Contact me if you want any software, websites, or Discord bots developed for you. I can make mostly anything for a low price.
 
