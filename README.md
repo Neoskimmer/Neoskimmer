@@ -5,22 +5,43 @@ I create open source solutions to problems I have with life.
 
 ## About Me:
 
-I'm an Australian programmer part of [Hack Club](https://hackclub.com/), the world's largest open-source community of teenagers working together to create projects.
-## Cool tools I use daily:
+I'm an Australian developer part of [Hack Club](https://hackclub.com/), the world's largest open-source community of teenagers working together to create projects. I never actually get a chance to finish anything because of school and extra-ciricular activities but when I do finish stuff, it's usually pretty good :))
 
-### Firefox - The best open-source browser that's secure and fast
-![Drawing sketchpad](https://github.com/user-attachments/assets/1b504001-3fbb-4aeb-a403-1d849c32be90)
+My current project: [High Seas](https://highseas.hackclub.com) I'm writing a short program in TI-BASIC to find the day of the week from any given day.
 
-### Visual Studio Code - The best code editor with themes and version control
-![Drawing sketchpad (1)](https://github.com/user-attachments/assets/21b02e5b-b945-4247-bfa1-97cbe34f7fc0)
+My previous project: Cottn: A Web Based Messaging Client to get around my school blocking Discord
 
 
+### Stuff I like:
+  
+The colour yellow 🟨
 
-## What I'm working on:
+Ping Pong/Table Tennis 🏓
+
+Rocket League and Minecraft 🏐
+
+The Spider-verse movies 🕸️🕷️
+
+Books (Romance and Crime Fiction) 📖
+
+Firefox 🔥🦊
+
+### Primary languages:
+
+Scratch (But it's modded to the point where it's barely Scratch anymore)
+
+TI-BASIC (Programming language for the Texas Instruments graphing calculators)
+
+HTML (Kinda)
+
+Python (Kinda)
+
+# Hire me! 
+
+Contact me if you want any software, websites, or Discord bots developed for you. I can make mostly anything for a low price.
 
 ## Contact me:
-on [Discord](discord.gg/ZQBpBQK99F)
 
-or email me! neoskimmer@gmail.com
+Email: neoskimmer@gmail.com
 
-
+Discord: (I'll put the link here soon I just haven't had the chance to lol)
