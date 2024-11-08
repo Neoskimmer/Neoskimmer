@@ -1,5 +1,5 @@
-# 😎 Hi there!
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Host+Grotesk&size=51&duration=7000&pause=1500&color=F7D131&vCenter=true&width=435&lines=Neoskimmer)](https://git.io/typing-svg)
+# 
 My name is Felix Baker, but I go by Neoskimmer or Neo for short. (If you know me really well, I'm Neo The Great.)
 I create open source solutions to problems I have with life.
 
