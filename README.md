@@ -45,4 +45,4 @@ Contact me if you want any software, websites, or Discord bots developed for you
 
 Email: neoskimmer@gmail.com
 
-Discord: https://discord.gg/6kNa9ggN (It's a friend req link, not a server link)
+Discord: https://discord.gg/s8Ttsyun (It's a friend req link, not a server link)
