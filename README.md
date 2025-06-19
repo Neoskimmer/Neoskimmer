@@ -4,11 +4,11 @@ My name is Felix Baker, but I go by Neoskimmer or Neo for short. (Or you might k
 
 I create open source solutions to problems I have with life.
 
-## About Me:
+## About Me: 
 
 I'm an Australian developer part of [Hack Club](https://hackclub.com/), the world's largest open-source community of teenagers working together to create projects. I never actually get a chance to finish anything because of school and extra-ciricular activities but when I do finish stuff, it's usually pretty good :))
 
-My current project: [High Seas](https://highseas.hackclub.com) I'm writing a short program in TI-BASIC to find the day of the week from any given day.
+My current project: [Summer Of Making](summer.hackclub.com)
 
 My previous project: Cottn: A Web Based Messaging Client to get around my school blocking Discord
 
