@@ -8,7 +8,7 @@ I create open source solutions to problems I have with life.
 
 I'm an Australian developer part of [Hack Club](https://hackclub.com/), the world's largest open-source community of teenagers working together to create projects. I never actually get a chance to finish anything because of school and extra-ciricular activities but when I do finish stuff, it's usually pretty good :))
 
-My current project: [Summer Of Making](summer.hackclub.com)
+My current project: klippek
 
 My previous project: Cottn: A Web Based Messaging Client to get around my school blocking Discord
 
