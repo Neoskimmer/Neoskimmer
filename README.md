@@ -1,4 +1,4 @@
-[![Typing SVG](https://js-readme-typing-svg.vercel.app/svg?lines=reflect&fontSize=48&fontFamily=Inter&fontWeight=800&letterSpacing=0&color=FFA602&background=transparent&width=800&height=100&printSpeed=10&delayBetweenLines=800&eraseSpeed=10&eraseMode=line&cursorStyle=none&horizontalAlign=left&verticalAlign=middle&multiLine=true&repeat=true)](https://readme-typing-svg.demolab.com/demo/?color=F7A200&vCenter=true&lines=reflect)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A200&vCenter=true&width=435&lines=reflect)](https://git.io/typing-svg)
 
 My name is Felix Baker, but you might know me as reflect.
 
