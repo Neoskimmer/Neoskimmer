@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A200&vCenter=true&width=435&lines=reflect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=F7A200&vCenter=true&width=435&lines=reflect)](https://git.io/typing-svg)
 
 My name is Felix Baker, but you might know me as reflect.
 
